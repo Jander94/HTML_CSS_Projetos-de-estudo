@@ -1,0 +1,37 @@
+*{margin: 0px; padding: 0px;}
+
+#logo h2{color: white; font-size: 60px; padding: 10px;}
+
+#principal{margin: 0px;padding: 0px;background-color: lightgray;; font-size: 1em;}
+
+#logo{background-color: darkred; text-align: center;}
+
+#campo-conteudo{width: 920px; margin: 5px auto; border: 1px solid black;}
+
+#campo-postagem{width: 630px;padding: 10px;float: left;}
+
+#rodape{clear: both; font-weight: bold; text-align: center; background-color: darkred; height: 50px;line-height: 50px; font-size: 1.2em;}
+
+#menu-right{width: 200px; background-color: #fff; float: right;margin: 10px; padding: 10px;margin-top: 20px;}
+
+.subtitulo{color: white; font-size: 1.3em;display: block; padding: 15px;}
+
+.postagem{background-color: #fff;}
+
+.data-postagem{font-size: 0.8em; margin-left: 10px;}
+
+
+
+
+
+p{margin: 10px;}
+
+img{width: 580px; margin: 5px;}
+
+h1{color: darkred; margin: 10px;}
+
+h3{background-color: lightgray; color: darkred;}
+
+a{padding: 10px; text-decoration: none; color: darkred;}
+
+a:hover{background-color: darkred;color: #fff;}
