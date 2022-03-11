@@ -7,3 +7,17 @@ body{font-family: "Trebuchete MS", Helvetica, sans-serif;background: url(../imag
 #topo{height: 150px;background: url(../imagens/detalhe-topo.png) no-repeat right;padding: 25px;}
 
 .logo{width: 152px;height: 66px;text-indent: -3000px;background: url(../imagens/logo.png) no-repeat center;}
+
+ul{margin: 0;padding: 0;list-style: none;}
+
+#topo ul a{text-decoration: none; color: #fff;padding: 15px 25px;display: block;background: url(../imagens/divisor.png)no-repeat left center;}
+
+#topo ul{float: left;margin-top: 35px;background: #b10333;}
+
+#topo ul li{float: left;}
+
+#topo ul a:hover{color: darkred;}
+
+#topo ul .primeiro a{background: none;}
+
+body.home #navegacao a#home{background:#de003e;color: #fff;}
