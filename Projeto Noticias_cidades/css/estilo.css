@@ -20,4 +20,10 @@ ul{margin: 0;padding: 0;list-style: none;}
 
 #topo ul .primeiro a{background: none;}
 
-body.home #navegacao a#home{background:#de003e;color: #fff;}
+body.home #navegacao a#home,
+body.brasil #navegacao a#brasil,
+body.internacional #navegacao a#internacional,
+body.economia #navegacao a#economia,
+body.saude #navegacao a#saude,
+body.ciencia #navegacao a#ciencia,
+body.fotos #navegacao a#fotos{background:#de003e;color: #fff;}
