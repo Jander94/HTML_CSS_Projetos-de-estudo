@@ -2,11 +2,11 @@
 
 #logo h2{color: white; font-size: 60px; padding: 10px;}
 
-#principal{margin: 0px;padding: 0px;background-color: lightgray;; font-size: 1em;}
+#principal{margin: 0px auto;padding: 0px;background-color: lightgray; font-size: 1em;}
 
 #logo{background-color: darkred; text-align: center;}
 
-#campo-conteudo{width: 920px; margin: 5px auto; border: 1px solid black;}
+#campo-conteudo{width: 920px; margin: 5px auto;}
 
 #campo-postagem{width: 630px;padding: 10px;float: left;}
 
